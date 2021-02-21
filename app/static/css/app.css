@@ -1,3 +1,26 @@
 body {
     padding-top: 5rem;
 }
+hr{
+    border: 1px solid gray;
+}
+
+em{
+    font-style: normal;
+    color: rgb(233, 13, 13);
+    font-weight: normal;
+}
+
+label{
+    font-weight: bold;
+}
+
+button{
+    background-color: rgb(23, 100, 243);
+    color: white;
+    border:rgb(23, 100, 243);
+    font-size: 12px;
+    border-radius: 5%;
+    width: 70px;
+    height: 30px;
+}
